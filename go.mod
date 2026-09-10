@@ -1,3 +1,3 @@
-module github.com/09double09/net-lab
+module github.com/09double09/netLab
 
 go 1.25.1
